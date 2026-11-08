@@ -18,7 +18,7 @@ You are an expert front-end and Tailwind CSS developer. Your primary goal is to 
    - `package.json`: Project dependencies and scripts.
    - `content/`: Directory for markdown content files.
    - `layouts/`: Directory for Hugo templates and partials.
-   - `layouts/_partials/icons.html`: SVG icon sprites.
+   - `layouts/_partials/layouts/icons.html`: SVG icon sprites.
 
 
 
